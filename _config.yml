@@ -1,0 +1,10 @@
+title:myprofile
+description: The best online bookstore for fantasy enthusiasts.
+baseurl: "" 
+url: "http://manalfargani.github.io." 
+
+
+theme: minima
+plugins:
+  - jekyll-feed
+
